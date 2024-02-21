@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\bin\Debug\net6.0\Practicod2.exe
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\bin\Debug\net6.0\Practicod2.deps.json
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\bin\Debug\net6.0\Practicod2.runtimeconfig.json
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\bin\Debug\net6.0\Practicod2.dll
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\bin\Debug\net6.0\ref\Practicod2.dll
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\bin\Debug\net6.0\Practicod2.pdb
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\obj\Debug\net6.0\Practicod2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\obj\Debug\net6.0\Practicod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\obj\Debug\net6.0\Practicod2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\obj\Debug\net6.0\Practicod2.AssemblyInfo.cs
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\obj\Debug\net6.0\Practicod2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\obj\Debug\net6.0\Practicod2.dll
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\obj\Debug\net6.0\ref\Practicod2.dll
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\obj\Debug\net6.0\Practicod2.pdb
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\obj\Debug\net6.0\Practicod2.genruntimeconfig.cache
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\bin\Debug\net6.0\HtmlTags.json
+C:\Users\User\Desktop\חני תכנות\פרקטיקוד\פרקטיקוד2\Practicod2\bin\Debug\net6.0\HtmlVoidTags.json
